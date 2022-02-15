@@ -1,0 +1,15 @@
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\bin\Debug\net6.0\Processamento_de_Dados.exe
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\bin\Debug\net6.0\Processamento_de_Dados.deps.json
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\bin\Debug\net6.0\Processamento_de_Dados.runtimeconfig.json
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\bin\Debug\net6.0\Processamento_de_Dados.dll
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\bin\Debug\net6.0\ref\Processamento_de_Dados.dll
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\bin\Debug\net6.0\Processamento_de_Dados.pdb
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.csproj.AssemblyReference.cache
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.AssemblyInfoInputs.cache
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.AssemblyInfo.cs
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.csproj.CoreCompileInputs.cache
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.dll
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\ref\Processamento_de_Dados.dll
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.pdb
+E:\Programacao_C#\logica_de_programação\Processamento_de_Dados\obj\Debug\net6.0\Processamento_de_Dados.genruntimeconfig.cache
