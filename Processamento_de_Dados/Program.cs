@@ -24,3 +24,5 @@ a = 5.2;
 b = (int)a;
 
 System.Console.WriteLine(b.ToString("F2", CI));
+
+/* ################### Estudar Conversões ################### */
